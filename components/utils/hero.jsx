@@ -13,12 +13,12 @@ const Hero = () => {
               <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-24">
                 <div className="text-left">
                   <h1 className="text-xl font-medium tracking-tight text-teal-600 sm:text-6xl">
-                    Hello🖐, I am a
+                    Hello 🖐, I'm Satria
                   </h1>
                   <h1 className="text-xl font-medium tracking-tight text-gray-900 sm:text-6xl">
                     <Typewriter
                       options={{
-                        strings: ['Web Developer', 'Performance Tester', 'Automation Tester'],
+                        strings: ['a Web Developer', 'a Performance Tester', 'a Automation Tester'],
                         autoStart: true,
                         loop: true,
                       }}

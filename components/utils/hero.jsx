@@ -15,7 +15,7 @@ const Hero = () => {
                   <h1 className="text-xl font-medium tracking-tight text-teal-600 sm:text-6xl">
                     Hello 🖐, I&#39;m Satria
                   </h1>
-                  <h1 className="text-xl font-medium tracking-tight text-gray-900 sm:text-6xl">
+                  <h1 className="mt-2 text-xl font-medium tracking-tight text-gray-900 sm:text-6xl">
                     <Typewriter
                       options={{
                         strings: ['a Web Developer', 'a Performance Tester', 'a Automation Tester'],

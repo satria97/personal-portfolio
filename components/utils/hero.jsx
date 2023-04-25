@@ -13,7 +13,7 @@ const Hero = () => {
               <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-24">
                 <div className="text-left">
                   <h1 className="text-xl font-medium tracking-tight text-teal-600 sm:text-6xl">
-                    Hello 🖐, I'm Satria
+                    Hello 🖐, I&#39;m Satria
                   </h1>
                   <h1 className="text-xl font-medium tracking-tight text-gray-900 sm:text-6xl">
                     <Typewriter
@@ -25,7 +25,8 @@ const Hero = () => {
                     />
                   </h1>
                   <p className="mt-6 text-lg leading-8 text-gray-600">
-                    My name is Satria. I am a Web Developer and Quality Assurance from Landak, Indonesia
+                    I&#39;m a Web Developer and Quality Assurance from Landak, Indonesia.
+                    Experienced building web applications using PHP and Javascript as well as testing using Loadrunner and Katalon Studio.
                   </p>
                   <div className="mt-10 flex items-center justify-start gap-x-6">
                     <Link
